@@ -3,7 +3,7 @@ layout: splash
 title: "Data-Driven Contact-Aware Control Method for Real-Time Deformable Tool Manipulation: A Case Study in the Environmental Swabbing"
 description: "A cutting-edge force control framework for deformable tool manipulation in robotic swabbing."
 header:
-  overlay_image: /assets/cover.jpg
+  overlay_image: /assets/css/cover.jpg
   overlay_filter: 0.2
   caption: "🔬 Authors and lab name are anonymized for double-blind review."
   actions:
