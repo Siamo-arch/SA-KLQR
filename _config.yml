@@ -1,5 +1,13 @@
-theme: minima
-title: Adaptive Koopman-Based Force Control
-author: Research Team
-description: Project page for our study on force control in robotic swabbing.
+remote_theme: mmistakes/minimal-mistakes
+title: "Adaptive Koopman-Based Force Control"
+author: "Research Team"
+description: "Project page for our study on force control in robotic swabbing."
+logo: "/assets/images/logo.png"
 show_downloads: false
+theme_color: "#002b36" # Dark professional tone
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-include-cache
