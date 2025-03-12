@@ -3,6 +3,7 @@ title: "Adaptive Koopman-Based Force Control"
 author: "Research Team"
 description: "Project page for our study on force control in robotic swabbing."
 logo: "/assets/images/logo.png"
+overlay_image: "/assets/cover.jpg"
 show_downloads: false
 theme_color: "#002b36" # Dark professional tone
 plugins:
