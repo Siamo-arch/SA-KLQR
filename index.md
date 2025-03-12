@@ -1,13 +1,13 @@
 ---
 layout: splash
-title: "SA-KLQR: Adaptive Koopman-Based Force Control"
+title: "Data-Driven Contact-Aware Control Method for Real-Time Deformable Tool Manipulation: A Case Study in the Environmental Swabbing"
 description: "A cutting-edge force control framework for deformable tool manipulation in robotic swabbing."
 header:
   overlay_image: /assets/images/header.jpg
   overlay_filter: 0.2
-  caption: "🔬 Precision in Robotic Swabbing"
+  caption: "🔬 Authors and lab name are anonymized for double-blind review."
   actions:
-    - label: "📄 Read the Paper"
+    - label: "📄 Read the Paper (submitted)"
       url: "#"
       icon: "fas fa-file-pdf"
     - label: "🖥️ GitHub Repository"
