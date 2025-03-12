@@ -18,7 +18,7 @@ header:
       icon: "fas fa-video"
 ---
 
-# 🚀 SA-KLQR: Adaptive Koopman-Based Force Control
+# 🚀 S
 
 ## 🔬 Overview  
 **SA-KLQR** is a novel **Koopman-based adaptive force control framework** designed to enhance force regulation and tool compliance in **robotic swabbing applications**. Our method ensures **precise force tracking**, **trajectory adaptation**, and **dynamic tool stability**.
