@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "SA-KLQR: Adaptive Koopman-Based Force Control"
+title: "1"
 description: "A cutting-edge force control framework for deformable tool manipulation in robotic swabbing."
 header:
   overlay_image: /assets/cover.jpg
