@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "11"
-description: "A cutting-edge force control framework for deformable tool manipulation in robotic swabbing."
+description: "33."
 header:
   overlay_image: /assets/cover.jpg
   overlay_filter: 0.2
