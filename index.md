@@ -1,13 +1,14 @@
 ---
 layout: splash
-title: "11"
+title: "Data-Driven Contact-Aware Control Method for Real-Time Deformable Tool Manipulation: A Case Study in the Environmental Swabbing
+"
 description: "33."
 header:
   overlay_image: /assets/cover.jpg
   overlay_filter: 0.2
-  caption: "🔬 Precision in Robotic Swabbing"
+  caption: "🔬 Authors and lab name are anonymized for double-blind review."
   actions:
-    - label: "📄 Read the Paper"
+    - label: "📄 Read the Paper (submitted)"
       url: "#"
       icon: "fas fa-file-pdf"
     - label: "🖥️ GitHub Repository"
@@ -21,7 +22,7 @@ header:
 # 🚀 S
 
 ## 🔬 Overview  
-**SA-KLQR** is a novel **Koopman-based adaptive force control framework** designed to enhance force regulation and tool compliance in **robotic swabbing applications**. Our method ensures **precise force tracking**, **trajectory adaptation**, and **dynamic tool stability**.
+This project introduces **State-Adaptive Koopman LQR (SA-KLQR)**, a novel data-driven control framework for real-time **deformable tool manipulation (DTM)**. Our case study focuses on environmental swabbing in food safety, where maintaining precise contact force and coverage consistency is crucial.
 
 > *"Precision in force control is critical for robotic swabbing to ensure effective microbial collection and surface coverage."*
 
