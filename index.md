@@ -73,14 +73,13 @@ Unlike traditional controllers, **SA-KLQR** adapts to **deformable tool dynamics
 
 ## 🎥 Video Demonstration  
 Watch SA-KLQR in action:  
-📽️ **[Watch Here](https://drive.google.com/file/d/14zFcwjBR3LR7sCwHRbmao5qAlZ0gsD7U/view?usp=sharing)** *(To be added)*  
+📽️ **[Watch Here](https://drive.google.com/file/d/14zFcwjBR3LR7sCwHRbmao5qAlZ0gsD7U/view?usp=sharing)** 
 
 ---
 
 ## 🌍 Stay Connected  
 Stay updated with the latest advancements:  
-- **GitHub** → [SA-KLQR Repository](#)  
-- **Twitter** → [@YourLab](#)  
+- **GitHub** → [SA-KLQR Repository](#)    
 - **Website** → [YourLab.com](#)  
 
-🚀 *This page is continuously updated. More content coming soon!*
+🚀 *This page is continuously updated. More content like authors informations and codes coming after acceptance!*
