@@ -25,7 +25,6 @@ Deformable Object Manipulation (DOM) remains a critical challenge in robotics du
 ## 📽️ All in 2 Minutes
 <div style="text-align: center;">
 <iframe src="https://drive.google.com/file/d/14zFcwjBR3LR7sCwHRbmao5qAlZ0gsD7U/preview" width="640" height="480" allow="autoplay"></iframe>
-    </iframe>
 </div>
 
 
@@ -74,7 +73,7 @@ Unlike traditional controllers, **SA-KLQR** adapts to **deformable tool dynamics
 
 ## 🎥 Video Demonstration  
 Watch SA-KLQR in action:  
-📽️ **[Watch Here](#)** *(To be added)*  
+📽️ **[Watch Here](https://drive.google.com/file/d/14zFcwjBR3LR7sCwHRbmao5qAlZ0gsD7U/view?usp=sharing)** *(To be added)*  
 
 ---
 
