@@ -30,6 +30,7 @@ Deformable Object Manipulation (DOM) remains a critical challenge in robotics du
 
 ## 🔬 Overview  
 This project introduces **State-Adaptive Koopman LQR (SA-KLQR)**, a novel data-driven control framework for real-time **deformable tool manipulation (DTM)**. Our case study focuses on environmental swabbing in food safety, where maintaining precise contact force and coverage consistency is crucial.
+<img width="2368" height="1792" alt="framework" src="https://github.com/user-attachments/assets/c0e21a4d-6c1d-4d56-8332-b1e354f3a0eb" />
 
 > *"Precision in force control is critical for robotic swabbing to ensure effective microbial collection and surface coverage."*
 
@@ -61,6 +62,7 @@ Unlike traditional controllers, **SA-KLQR** adapts to **deformable tool dynamics
 ✅ **Minimal tracking error** → More **precise** force control.  
 ✅ **Stable tool compliance** → Avoids **unnecessary deformations**.  
 ✅ **Higher coverage efficiency** → Improves **surface consistency** in swabbing.  
+<img width="3544" height="1768" alt="Swab_exp" src="https://github.com/user-attachments/assets/14275ecb-efb4-4d7e-969a-c9593ccde7a1" />
 
 ---
 
